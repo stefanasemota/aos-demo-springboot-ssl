@@ -1,0 +1,14 @@
+ch/aos/demo/config/AppConfig.class
+ch/aos/demo/config/CommonConfig.class
+ch/aos/demo/config/AppContainer$1$1.class
+ch/aos/demo/config/AppContainer.class
+ch/aos/demo/config/AppProperties.class
+ch/aos/demo/ws/impl/AppCXFGreetingImpl.class
+ch/aos/demo/config/AppBeansConfig.class
+ch/aos/demo/config/AppContainer$1.class
+ch/aos/demo/ws/AppCXFGreeting.class
+ch/aos/demo/config/AppPropertyValidator.class
+ch/aos/demo/ui/SampleController.class
+ch/aos/demo/App.class
+ch/aos/demo/config/AppWebSecurityConfig.class
+ch/aos/demo/config/CXFServelet.class
